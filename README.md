@@ -1,6 +1,6 @@
 # Balatro Dom Palombi Mod
 
-A mod made using Dom Palombi's remix suite for Balatro, including the new shop theme!
+A mod made using Dom Palombi's cover suite for Balatro, including the new shop theme!
 
 All credit goes to Dom and Luis Clement, all I did was adjust the lengths of the songs for the game and looped them appropriately.
 
