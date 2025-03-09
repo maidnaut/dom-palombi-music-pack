@@ -10,10 +10,10 @@ All credit goes to Dom and Luis Clement, all I did was adjust the lengths of the
 
 Installation **requires** [SteamModded](https://github.com/Steamodded/smods). You could manually install by replacing the music in resource/sounds/, but looping won't work correctly because the audio won't be properly registered with love2d.
 
-After installing SteamModded, you can either ``git clone https://github.com/maidnaut/don-palombi-music-pack.git`` into your mods folder, or you can place it there manually.
-Windows: ``%AppData%/Balatro/mods``
-Mac: ``~/Library/Application Support/Balatro/mods``
-Linux/WINE/Proton: ``~/.local/share/Steam/steamapps/compatdata/2379780/pfx/drive_c/users/steamuser/AppData/Roaming/Balatro/mods``
+After installing SteamModded, you can either ``git clone https://github.com/maidnaut/don-palombi-music-pack.git`` into your mods folder, or you can place it there manually.  
+Windows: ``%AppData%/Balatro/mods``  
+Mac: ``~/Library/Application Support/Balatro/mods``  
+Linux/WINE/Proton: ``~/.local/share/Steam/steamapps/compatdata/2379780/pfx/drive_c/users/steamuser/AppData/Roaming/Balatro/mods``  
 
 ## Source Audio
 
