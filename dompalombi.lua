@@ -3,7 +3,7 @@
 --- MOD_ID: DomPalombi
 --- PREFIX: dompalombi
 --- MOD_AUTHOR: [Dom Palombi]
---- MOD_DESCRIPTION: Adds Dom Palombi's cover suite to Balatro. https://www.youtube.com/@DomPalombiMusic
+--- MOD_DESCRIPTION: Adds Dom Palombi's "Balatro Bangers" album to Balatro. https://www.youtube.com/@DomPalombiMusic
 --- BADGE_COLOUR: 680d6d
 --- DEPENDENCIES: [Steamodded>=1.0.0~ALPHA-1216c]
 --- VERSION: 1.0.0
