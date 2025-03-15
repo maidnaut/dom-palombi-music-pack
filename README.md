@@ -1,6 +1,6 @@
-# Balatro Dom Palombi Mod
+# Dom Palombi's "Balatro Bangers" mod
 
-A mod made using Dom Palombi's cover suite for Balatro, including the new shop theme!
+A mod that adds Dom Palombi's cover suite, "Balatro Bangers" to Balatro!
 
 All credit goes to Dom and Luis Clement, all I did was adjust the lengths of the songs for the game and looped them appropriately.
 
