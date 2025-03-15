@@ -15,31 +15,36 @@
 SMODS.Sound({
     key = "music1",
     path = "music1.ogg",
-    replace = "music1"
+    replace = "music1",
+    pitch = "0.7"
 })
 
 SMODS.Sound({
     key = "music2",
     path = "music2.ogg",
-    replace = "music2"
+    replace = "music2",
+    pitch = "0.72"
 })
 
 SMODS.Sound({
     key = "music3",
     path = "music3.ogg",
-    replace = "music3"
+    replace = "music3",
+    pitch = "0.7"
 })
 
 SMODS.Sound({
     key = "music4",
     path = "music4.ogg",
-    replace = "music4"
+    replace = "music4",
+    pitch = "0.72"
 })
 
 SMODS.Sound({
     key = "music5",
     path = "music5.ogg",
-    replace = "music5"
+    replace = "music5",
+    pitch = "0.7"
 })
 
 SMODS.Atlas({
