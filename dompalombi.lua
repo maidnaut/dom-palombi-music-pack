@@ -1,5 +1,5 @@
 --- STEAMODDED HEADER
---- MOD_NAME: Dom Palombi Music Pack
+--- MOD_NAME: Dom Palombi's Balatro Bangers
 --- MOD_ID: DomPalombi
 --- PREFIX: dompalombi
 --- MOD_AUTHOR: [Dom Palombi]
