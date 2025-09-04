@@ -6,6 +6,8 @@ All credit goes to Dom and Luis Clemente, all I did was adjust the lengths of th
 
 [Check out Dom's music!](https://bio.link/dompalombimusic)
 
+[Full Balatro Bangers Album YT Video](https://youtu.be/5c5ruSYe1WA)
+
 ## Installation
 
 Installation **requires** [SteamModded](https://github.com/Steamodded/smods). You could manually install by replacing the music in resource/sounds/, but looping won't work correctly because the audio won't be properly registered with love2d.
