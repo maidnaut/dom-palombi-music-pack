@@ -24,6 +24,4 @@ Main Theme: https://www.youtube.com/watch?v=WJi6m7R8ADY
 Tarot Pack: https://www.youtube.com/watch?v=2NJUORhh3e0  
 Planet Pack: https://www.youtube.com/watch?v=UYPpzX_PtpY  
 Shop Theme: https://www.youtube.com/watch?v=Ssmiv3LvWcE  
-Boss Blind: https://www.youtube.com/watch?v=Uxc0m4GRiuc  
-
-Full playlist: https://www.youtube.com/watch?v=WJi6m7R8ADY&list=PLPQPxOyIpBUyOq01i9jjzVHttvLjz22gD&pp=gAQB
+Boss Blind: https://www.youtube.com/watch?v=Uxc0m4GRiuc
