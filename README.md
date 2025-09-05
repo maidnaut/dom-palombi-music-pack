@@ -4,9 +4,13 @@ A mod that adds Dom Palombi's cover suite, "Balatro Bangers" to Balatro!
 
 All credit goes to Dom and Luis Clemente, all I did was adjust the lengths of the songs for the game and looped them appropriately.
 
-[Check out Dom's music!](https://bio.link/dompalombimusic)
+[Check out Dom's socials!](https://bio.link/dompalombimusic)
 
 [Full Balatro Bangers Album YT Video](https://youtu.be/5c5ruSYe1WA)
+
+[Official Link to find the album everywhere on streaming services](https://song.link/DomPalombis-BalatroBangers)
+
+[Buy an album on Dom's bandcamp and support him!](https://dompalombimusic.bandcamp.com/album/balatro-bangers)
 
 ## Installation
 
